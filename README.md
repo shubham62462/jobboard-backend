@@ -31,16 +31,13 @@ npm run dev
 
 ```bash
 # Employer Account
-Email: employer@test.com
+Email: employer3@test.com
 Password: password
 
 # Candidate Account  
-Email: candidate@test.com
+Email: candidate3@test.com
 Password: password
 
-# Additional Candidate Account
-Email: candidate2@test.com
-Password: password
 ```
 
 ## 🏗️ Architecture Overview
